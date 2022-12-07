@@ -8,6 +8,13 @@ import org.openqa.selenium.support.PageFactory;
 public class AntiTimeHomePage {
 	//Decleration
 	
+
+
+         //-----Demo-9--Succesfully
+
+
+
+
 	@FindBy(xpath="//img[@height='61']")
 	private WebElement Logo;
 	
